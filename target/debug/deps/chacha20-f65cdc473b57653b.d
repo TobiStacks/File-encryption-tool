@@ -1,0 +1,11 @@
+C:\Users\tobio\OneDrive\Documents\VS Code\VSC Rust\file_encrypt\target\debug\deps\libchacha20-f65cdc473b57653b.rmeta: C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\lib.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\legacy.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\xchacha.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\soft.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\avx2.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\sse2.rs
+
+C:\Users\tobio\OneDrive\Documents\VS Code\VSC Rust\file_encrypt\target\debug\deps\chacha20-f65cdc473b57653b.d: C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\lib.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\legacy.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\xchacha.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\soft.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\avx2.rs C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\sse2.rs
+
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\lib.rs:
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends.rs:
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\legacy.rs:
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\xchacha.rs:
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\soft.rs:
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\avx2.rs:
+C:\Users\tobio\.cargo\registry\src\index.crates.io-6f17d22bba15001f\chacha20-0.9.1\src\backends\sse2.rs:
